@@ -27,7 +27,7 @@
     "i18next": "^23.1.0",
     "i18next-resources-to-backend": "^1.1.4",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react-dom": "^19.1.1",
     "react-i18next": "^13.0.0",
     "react-query": "^3.34.19",
     "react-router-dom": "^6.3.0",
